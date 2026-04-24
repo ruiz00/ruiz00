@@ -25,12 +25,11 @@ I work at the intersection of **frontend development** and **cybersecurity** —
 
 ## 🚀 Featured Projects
 
-### 🔍 [Club Management system](https://github.com/code50/126393477/tree/be3ba9bcfd58c36c866fc61cee6bdbb38eeb2f9f/project)
-Simple app used to efficiently manage day-to-day activities of a club.
-`C` `Data structure` `Automation`
+### [ETCH](https://ruiz00.github.io/Etch/)
+`html` `CSS` `Javascript`
 
-### 📋 [Transportation Management System](https://github.com/code50/126393477/tree/be3ba9bcfd58c36c866fc61cee6bdbb38eeb2f9f/project_python)
-Managing car pool points, routes and itineraries
+### 📋 [Blog API]()
+API RESTful pour la gestion des articles d'un blog, développée avec Node.js, Express et SQLite.
  `Python` 
 
 ### 📡 [Hack The Box Writeups](https://ruiz00.github.io/HTB-writeups)
@@ -54,8 +53,8 @@ I'm open to freelance contracts and remote positions. I respond within 24 hours.
 | Channel | Link |
 |--------|------|
 | 📧 Email | gwanulagabryan@gmail.com |
-| 💼 LinkedIn | linkedin.com/in/ |
-| 🌐 Portfolio | yourportfolio.dev |
+| 💼 LinkedIn | linkedin.com/in/gwanulaga-bryan |
+| 🌐 Portfolio | https://bryan.propentatech.com/ |
 | 💬 WhatsApp/Telegram | +237657116168 |
 
 ---
