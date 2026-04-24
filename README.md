@@ -53,7 +53,7 @@ I'm open to freelance contracts and remote positions. I respond within 24 hours.
 | Channel | Link |
 |--------|------|
 | 📧 Email | gwanulagabryan@gmail.com |
-| 💼 LinkedIn | linkedin.com/in/gwanulaga-bryan |
+| 💼 LinkedIn | https://www.linkedin.com/in/gwanulaga-bryan |
 | 🌐 Portfolio | https://bryan.propentatech.com/ |
 | 💬 WhatsApp/Telegram | +237657116168 |
 
