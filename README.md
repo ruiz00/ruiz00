@@ -10,7 +10,7 @@ I work at the intersection of **frontend development** and **cybersecurity** —
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 `Python` `JavaScript` `C` `C++` `Java`
