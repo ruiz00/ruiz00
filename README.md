@@ -1,10 +1,10 @@
-# Hey, I'm zero24dark 👋
+# Hey, I'm Gwanulaga Bryan Nyagha
 
 > Frontend Developer & Junior Cybersecurity Analyst — I build clean interfaces and I know how attackers think.
 
 ---
 
-## 🖥️ What I Do
+## What I Do
 
 I work at the intersection of **frontend development** and **cybersecurity** — which means I don't just build web apps, I also know how to break them. That dual perspective makes me useful for clients who care about both UX and security.
 
@@ -23,39 +23,38 @@ I work at the intersection of **frontend development** and **cybersecurity** —
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [ETCH](https://ruiz00.github.io/Etch/)
 `html` `CSS` `Javascript`
 
-### 📋 [Blog API]()
+### [Blog API]()
 API RESTful pour la gestion des articles d'un blog, développée avec Node.js, Express et SQLite.
  `Python` 
 
-### 📡 [Hack The Box Writeups](https://ruiz00.github.io/HTB-writeups)
+### [Hack The Box Writeups](https://ruiz00.github.io/HTB-writeups)
 Basics for pentesting and Hack The Box machine challenges
 `Burpsuite` `Nmap` `active directory`
 
 ---
 
-## 🎯 Currently
+## Currently
 
-- 🔐 Studying for the CPTS path on Hack the box
-- 📚 Preparing for 
-- 🌍 Looking for **remote dev roles** and **freelance projects**
+-  Studying for the CPTS path on Hack the box
+-  Looking for **remote dev roles** and **freelance projects**
 
 ---
 
-## 📬 Let's Work Together
+##  Let's Work Together
 
 I'm open to freelance contracts and remote positions. I respond within 24 hours.
 
 | Channel | Link |
 |--------|------|
-| 📧 Email | gwanulagabryan@gmail.com |
-| 💼 LinkedIn | https://www.linkedin.com/in/gwanulaga-bryan |
-| 🌐 Portfolio | https://bryan.propentatech.com/ |
-| 💬 WhatsApp/Telegram | +237657116168 |
+|  Email | gwanulagabryan@gmail.com |
+|  LinkedIn | https://www.linkedin.com/in/gwanulaga-bryan |
+|  Portfolio | https://propentatech-web.github.io/portfolio-ruiz00/ |
+|  WhatsApp/Telegram | +237657116168 |
 
 ---
 
